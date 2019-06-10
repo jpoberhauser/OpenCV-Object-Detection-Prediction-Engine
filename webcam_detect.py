@@ -1,4 +1,3 @@
-#od.py
 #https://www.learnopencv.com/deep-learning-based-object-detection-using-yolov3-with-opencv-python-c/
 
 # can we make s cript that shows darknet predictions on single iamges, webcam, and video?
